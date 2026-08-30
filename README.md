@@ -18,9 +18,12 @@ This project is developed using Pega for managing ticketing and booking requests
 * Case Processing
 * Status Tracking
 
-## Demo Video
+## Demo link
 
 https://qece0aef.pegaacademy.net/prweb/app/ticketing-and-booking/CtYds566Y7g0wqmzQXJaidwV3WuwKfQA*/!STANDARD?pzuiactionzzz=CXtycX01YTM4YjNiZjZmNWZlMjkwN2IwZmI3M2YyZWMwYmE5MTlmZTAwZjIxZTA0NmZmM2Q3ZmU3YzJkY2FiMjFiYjVjMjNhZTM0NmU1OGU2MTEwMGU3NmQ3MjA0OTBjYTdjNjY=*
+
+## Demo vedio**
+https://drive.google.com/file/d/1cKY8KK4DvnP65x2_0YR4GKGZFK5oB1EL/view?usp=sharing
 
 ## Application
 
