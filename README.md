@@ -20,7 +20,7 @@ This project is developed using Pega for managing ticketing and booking requests
 
 ## Demo Video
 
-[Click here to watch the Demo Video](PASTE_YOUR_DEMO_VIDEO_LINK_HERE)
+https://qece0aef.pegaacademy.net/prweb/app/ticketing-and-booking/CtYds566Y7g0wqmzQXJaidwV3WuwKfQA*/!STANDARD?pzuiactionzzz=CXtycX01YTM4YjNiZjZmNWZlMjkwN2IwZmI3M2YyZWMwYmE5MTlmZTAwZjIxZTA0NmZmM2Q3ZmU3YzJkY2FiMjFiYjVjMjNhZTM0NmU1OGU2MTEwMGU3NmQ3MjA0OTBjYTdjNjY=*
 
 ## Application
 
