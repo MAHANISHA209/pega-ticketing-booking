@@ -29,9 +29,6 @@ https://drive.google.com/file/d/1cKY8KK4DvnP65x2_0YR4GKGZFK5oB1EL/view?usp=shari
 
 Pega Ticketing and Booking Application
 
-## Screenshots
-
-Screenshots of the application are included in this repository.
 
 ## Conclusion
 
